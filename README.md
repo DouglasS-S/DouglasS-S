@@ -1,7 +1,7 @@
 ## 👨🏽‍💻 Douglas Sabino
 - 🌐 Cursando Análise e Desenvolvimento de Sistemas
 - ⚙️ Seguindo para a área de Backend
-- ♨️ Estudando linguagem Java</h2>
+- ♨️ Estudando Linguagem Java</h2>
 
 ###
 
